@@ -38,7 +38,7 @@ require_once "auth_check.php";
         <a href="admin-news.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">
             <i class="fa fa-newspaper-o fa-fw w3-margin-right"></i>MANAGE NEWS
         </a>
-        <a href="news.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">
+        <a href="news.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">
             <i class="fa fa-eye fa-fw w3-margin-right"></i>VIEW NEWS PAGE
         </a>
         <a href="logout.php" class="w3-bar-item w3-button w3-padding">
